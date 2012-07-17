@@ -1,0 +1,7 @@
+sm_app_name: foo
+sm_client_name: michaj
+html5: true
+ 
+development:
+  key: 5443fa09-edda-4e72-a2d4-69259b57d0e4
+  secret: 165b352b-a601-43f3-8bc1-3cdda5fc9a8f
